@@ -1,0 +1,5 @@
+C:\Users\Franc\OneDrive\Escritorio\Laboratorio-2-master\bin\MVCLaboratorio.dll
+C:\Users\Franc\OneDrive\Escritorio\Laboratorio-2-master\bin\MVCLaboratorio.pdb
+C:\Users\Franc\OneDrive\Escritorio\Laboratorio-2-master\obj\Debug\MVCLaboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Franc\OneDrive\Escritorio\Laboratorio-2-master\obj\Debug\MVCLaboratorio.dll
+C:\Users\Franc\OneDrive\Escritorio\Laboratorio-2-master\obj\Debug\MVCLaboratorio.pdb
